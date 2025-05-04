@@ -1,4 +1,4 @@
-# 🇸🇪 Gender Gap Analysis in Sweden: A Data-Driven Perspective
+# Gender Gap Analysis in Sweden: A Data-Driven Perspective
 
 This project presents a comprehensive, visual analysis of gender-based trends in **education, labor force participation, employment, life expectancy**, and **maternal health** in **Sweden**, using data collected from the **World Bank**. The goal is to understand how gender disparities manifest in a highly developed, socially progressive country.
 
